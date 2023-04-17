@@ -1,6 +1,4 @@
-import java.util.*;
-
-class sum {
+class sum() {
     public static void main(String[] args) {
         int a = 5; 
         int b = 6;
